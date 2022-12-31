@@ -1,0 +1,109 @@
+body{
+background-color: hsl(225, 100%, 94%);
+}
+
+.bg{
+  z-index: -3;
+position: absolute;
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+.fee{
+display: inline-flex;
+background-color:  hsl(225, 100%, 98%);
+justify-content: space-between;
+width: 290px;
+height: 87px;
+border-radius: 6px;
+margin-bottom: 16px;
+}
+.fee svg{
+position: relative;
+top: 16px;
+right: -23px;
+}
+.fee p:first-child{
+font-weight: 700;
+color: blue;
+}
+main{
+margin: 0 auto;
+border-radius: 0 0 12px 12px;
+z-index: 12;
+position: relative;
+top: 33px;
+bottom: 6px;
+width: 395px;
+text-align: center;
+background-color: white;
+box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.btn{
+display: grid;
+width: 80%;
+margin: 0 auto;
+}
+footer{
+position:relative;
+bottom: 0;
+}
+.button{
+padding: 6px;
+margin: 8px;
+border-radius: 5px;
+border-style: none;
+cursor: pointer;
+height: 37px;
+
+}
+.button:first-child:hover{
+background-color:hsl(245deg 88% 65%);;
+color: white;
+font-weight: 500;
+}
+.button:first-child{
+background-color:  hsl(245, 75%, 52%);
+color: white;
+}
+.button:nth-child(2){
+color:gray;
+background-color:#80808000;
+margin-bottom: 27px;
+}
+.button:nth-child(2):hover{
+background-color: white;
+color: darkblue;
+}
+
+.wrapPlan p:first-child{
+color:hsl(223, 47%, 23%);
+}
+.wrapPlan:nth-child(2){
+color:hsl(224, 23%, 55%);
+}
+.fee input{
+border-style: none;
+background: none;
+cursor: pointer;
+font-weight: 600;
+margin-right: 10px;
+}
+.fee input:hover{
+color: hsl(245, 75%, 52%)
+}
+.hero svg{
+width: 100%;
+border-radius: 11px 11px 0 0;
+}
+#title{
+font-size: 25px;
+font-weight: 700;
+color: darkblue;
+}
+#afterTitle{
+font-size:  16px;
+width: 70%;
+margin: 0 auto;
+margin-bottom: 20px;
+color:hsl(224, 23%, 55%);
+}
