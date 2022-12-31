@@ -34,6 +34,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- myportfolio - [Katerina Sarantopoulou](https://myportfolio-katesarant.netlify.app/)
+- Frontend Mentor - [@kate-sarant](https://www.frontendmentor.io/profile/kate-sarant)
+- Github - [kate-sarant](https://github.com/kate-sarant)
